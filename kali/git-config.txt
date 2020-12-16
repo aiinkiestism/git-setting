@@ -1,0 +1,15 @@
+user.name=aiinkiestism
+user.email=g.k.k.r.1228kc@gmail.com
+alias.cl=config --list
+alias.cg=config --global
+alias.us=config --global --unset
+alias.s=status
+alias.co=checkout
+alias.ci=commit
+alias.br=branch
+alias.unstage=reset HEAD --
+alias.last=log -1 HEAD
+alias.ai=add -i
+alias.sw=switch
+alias.rest=restore
+alias.a=add
